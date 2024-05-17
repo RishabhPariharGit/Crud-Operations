@@ -1,20 +1,20 @@
 const playerdetails = [
     {
         id: "1",
-        name: "Virat Kohli",
+        Name: "Virat Kohli",
         Age: "32"
     },
     {
         id: "2",
-        name: "Rohit Sharma",
+        Name: "Rohit Sharma",
         Age: "33"
     },{
         id: "3",
-        name: "Shubhmann Gill",
+        Name: "Shubhmann Gill",
         Age: "25"
     },{
         id: "3",
-        name: "KL Rahul",
+        Name: "KL Rahul",
         Age: "28"
     },
 ];
